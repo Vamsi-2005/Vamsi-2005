@@ -3,10 +3,13 @@
 🎓 CSE student passionate about Web Development 
 🌱 Currently learning: Python  
 💻 Working on: Freelancing Projects  
-🤝 Looking to collaborate with Full Stack Developers  
-📫 Reach me at: muluguruvamsi@gmail.com
+🤝 Looking to collaborate with Full Stack Developers 
 
----
+
+- 🔭 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **Python**
+- 🤝 I’m looking to collaborate on **web development projects**
+- 📫 How to reach me:  muluguruvamsi@gmail.com
 
 ### 🛠️ Languages & Tools:
 HTML | CSS | JavaScript | Python | Git
