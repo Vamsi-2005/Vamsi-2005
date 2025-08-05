@@ -1,3 +1,30 @@
+### Hi 👋, I'm Vamsi
+
+🎓 CSE student passionate about Web Development 
+🌱 Currently learning: Python  
+💻 Working on: Freelancing Projects  
+🤝 Looking to collaborate with Full Stack Developers  
+📫 Reach me at: muluguruvamsi@gmail.com
+
+---
+
+### 🛠️ Languages & Tools:
+HTML | CSS | JavaScript | Python | Git
+
+---
+
+### 📊 GitHub Stats:
+![Anu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anu123&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu123&layout=compact)
+
+---
+
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/anu)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://instagram.com/anu)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@anu)
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
